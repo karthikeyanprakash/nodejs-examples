@@ -6,7 +6,7 @@
 3.  Post your part of code in your question along with problem description 
 4.  Have a patience, we will look into problem and shall comment there. 
 
-## Donts
+## Don'ts
 1. Uploading full code 
 2. Description of problem more than 10 lines
 3. Specifying confidential product information of company
