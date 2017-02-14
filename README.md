@@ -10,3 +10,9 @@
 1. Uploading full code 
 2. Description of problem more than 10 lines
 3. Specifying confidential product information of company
+
+
+## Resources for starting Node based Application 
+1. appStarter folder for express and ejs based skelton code for starting new app
+2. Paper Theme for App frontend in Theme folder 
+More will be added soon ........ :) 
